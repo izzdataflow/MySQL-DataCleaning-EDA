@@ -64,6 +64,7 @@ Below are the documented steps, each linked with supporting images.
 ---
 
 ## ✅ Outcome
-- Cleaned dataset ready for **EDA**.  
-- Documented SQL scripts in [`data_cleaning/scripts`).  
-- Screenshots and workflow images in [`assets/data-cleaning-images`).  
+✅ Cleaned dataset ready for EDA.  
+📂 Documented SQL scripts in [data_cleaning/scripts](data_cleaning/scripts)  
+🖼️ Screenshots and workflow images in [assets/data-cleaning-images](assets/data-cleaning-images)
+
