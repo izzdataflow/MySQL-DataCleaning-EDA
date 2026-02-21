@@ -1,6 +1,6 @@
 # MySQL-DataCleaning-EDA
 
-# MySQL Data Cleaning Project – Process Logs
+# MySQL Data Cleaning – Process Logs
 
 This project demonstrates an **end-to-end workflow** in MySQL: from raw data import, through cleaning, to exploratory analysis (EDA).  
 Below are the documented steps, each linked with supporting images.
