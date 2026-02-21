@@ -62,9 +62,8 @@ Below are the documented steps, each linked with supporting images.
     ![Step 11](assets/data-cleaning-images/11.Remove_temp_column_MySQL.png)
 
 ---
-## ✅ Outcome - Cleaned dataset ready for **EDA**. - Documented SQL scripts in [`sql_scripts/`](sql_scripts). - Screenshots and workflow images in [`assets/datacleaning/`](assets/datacleaning).
 
 ## ✅ Outcome
 - Cleaned dataset ready for **EDA**.  
-- Documented SQL scripts in [`sql_scripts/`](sql_scripts).  
-- Screenshots and workflow images in [`assets/datacleaning/`](assets/datacleaning).  
+- Documented SQL scripts in [`data_cleaning/scripts`).  
+- Screenshots and workflow images in [`assets/data-cleaning-images`).  
