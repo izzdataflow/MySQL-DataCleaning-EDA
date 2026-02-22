@@ -71,9 +71,6 @@ Below are the documented steps, each linked with supporting images.
 📂 Documented SQL scripts in [data_cleaning/scripts](data_cleaning/scripts)  
 🖼️ Screenshots and workflow images in [assets/data-cleaning-images](assets/data-cleaning-images)
 
-#Pointer
-[Data Cleaning Process](#-My-SQL-Data-Cleaning–Process-Logs) | [Layoff Insights (2020-2023)](#layoff-insights-2020-2023)
-
 ## 📝 MySQL EDA Process Logs
 
 1. Using CTEs for company with most laid off employees (2020–2023, Top 5)  
@@ -135,9 +132,6 @@ Below are the documented steps, each linked with supporting images.
 **Overall:** The largest layoffs moved from pandemic‑sensitive industries and travel firms (2020) → startup instability (2021) → Big Tech corrections (2022–2023), centered around the US and global tech hubs.
 
 ---
-
-#Pointer
-[Data Cleaning Process](#-My-SQL-Data-Cleaning–Process-Logs) | [EDA Process](#-MySQL-EDA-Process-Logs)
 
 ### 📉 Least Layoffs Insights
 5. **Industries**
