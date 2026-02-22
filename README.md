@@ -2,8 +2,7 @@
 
 # 📂 MySQL Layoff Analysis Project
 
-[Data Cleaning Process](#-My-SQL-Data-Cleaning–Process-Logs) | [EDA Process](#-MySQL-EDA-Process-Logs) | [Insights](#-Layoff-Insights-2020-2023)
-
+[Data Cleaning Process](#-My-SQL-Data-Cleaning–Process-Logs) | [EDA Process](#-MySQL-EDA-Process-Logs) | [Layoff Insights (2020-2023)](#layoff-insights-2020-2023)
 # MySQL Data Cleaning – Process Logs
 
 This project demonstrates an **end-to-end workflow** in MySQL: from raw data import, through cleaning, to exploratory analysis (EDA).  
