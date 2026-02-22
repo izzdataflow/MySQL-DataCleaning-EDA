@@ -1,0 +1,44 @@
+MySQL Data Cleaning Process Logs
+
+1.Open MySQL, connect to server
+
+2.Create new schema, named it world_layoffs
+
+3.Import data : world_layoffs -> table data import wizard -> create new table -> correct data type (for this project i'm not changing anything so its raw data) -> after finishing, refresh schema
+
+4.List plan for cleaning data : remove duplicates,standardize the data, null values or blank values, remove any columns
+
+4.world layoffs database -> create layoffs_staging table for raw data before cleaning it -> make sure include all column
+
+6.Insert data from layoffs to layoffs_staging
+
+7.We do all the process with layoffs_staging table not the layoffs table for best practice
+
+8.Remove duplicate rows(queries) : Create CTEs, Create layoffs_staging2, inserting CTEs earlier into layoffs_staging_2, delete duplicate rows(setting SAFE mode off)
+
+9.Standardiziing data : TRIM,  SET similar rows from each column into one, changing data type based on rows(`date` column from text to DATE data type)
+
+10.Updating or Removing  NULL values or blank values based on data we have on table
+
+11.Remove temporary column that used for cleaning data
+
+
+MySQL EDA Process Logs
+
+1.Using CTEs for company with most laid off employee based on year 2020-2023 (top 5)
+
+2.Using CTEs for industry with most laid off employee based on year 2020-2023 (top 5)
+
+3.Using CTEs for country with most laid off employee based on year 2020-2023 (top 5)
+
+4.Using CTEs for location with most laid off employee based on year 2020-2023 (top 5)
+
+5.Using CTEs for industry with least laid off employee based on year 2020-2023 (bottom 5)
+
+6.Using CTEs for country with least laid off employee based on year 2020-2023 (bottom 5)
+
+7.Using CTEs for location with least laid off employee based on year 2020-2023 (bottom 5)
+
+
+After finished all steps above i export layoffs_staging2 and named it layoffs_cleaned
+
