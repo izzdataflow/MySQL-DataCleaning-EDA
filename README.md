@@ -74,6 +74,8 @@ Below are the documented steps, each linked with supporting images.
 📂 Documented SQL scripts in [data_cleaning/scripts](data_cleaning/scripts)  
 🖼️ Screenshots and workflow images in [assets/data-cleaning-images](assets/data-cleaning-images)
 
+[⬆ Back to Table of Contents](#table-of-contents) | [⬅ Go to Data Cleaning](#mysql-data-cleaning--process-logs) | [➡ Go to Insight](#layoff-insights-20202023)
+
 ## 📝 MySQL EDA Process Logs
 
 1. Using CTEs for company with most laid off employees (2020–2023, Top 5)  
@@ -100,6 +102,8 @@ Below are the documented steps, each linked with supporting images.
 ## ✅ Outcome ✅ Cleaned dataset analyzed with EDA queries. 
 📂 Documented SQL scripts in [eda/scripts](EDA/scripts) 
 🖼️ Visualizations and process logs in [assets/data-EDA-images](assets/data-EDA-images)
+
+[⬆ Back to Table of Contents](#table-of-contents) | [⬅ Go to Data Cleaning](#mysql-data-cleaning--process-logs) | [⬅ Go to EDA](#mysql-eda-process-logs)
 
 ## Layoff Insights 2020–2023
 
