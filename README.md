@@ -98,7 +98,7 @@ Below are the documented steps, each linked with supporting images.
 📂 Documented SQL scripts in [eda/scripts](EDA/scripts) 
 🖼️ Visualizations and process logs in [assets/data-EDA-images](assets/data-EDA-images)
 
-## Layoff Insights (2020–2023)
+## Layoff Insights 2020–2023
 
 ### 📈 Most Layoffs Insights
 1. **Companies**
