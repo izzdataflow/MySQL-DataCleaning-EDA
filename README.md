@@ -2,9 +2,9 @@
 
 # Table of contents 
 
-- [Data Cleaning](#mysql-data-cleaning-process-logs)
-- [EDA](#mysql-eda-process-logs)
-- [Insight](#layoff-insights-2020-2023)
+- [Data Cleaning](#mysql-data-cleaning--process-logs)
+- [EDA](#-mysql-eda-process-logs)
+- [Insight](#layoff-insights-20202023)
 
 # MySQL Data Cleaning – Process Logs
 
