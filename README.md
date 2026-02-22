@@ -2,7 +2,7 @@
 
 # 📂 MySQL Layoff Analysis Project
 
-[Data Cleaning Process](#-My-SQL-Data-Cleaning–Process-Logs) | [EDA Process](#-MySQL-EDA-Process-Logs) | [Insights](#-Layoff-Insights)
+[Data Cleaning Process](#-My-SQL-Data-Cleaning–Process-Logs) | [EDA Process](#-MySQL-EDA-Process-Logs) | [Insights](#-Layoff-Insights-2020-2023)
 
 # MySQL Data Cleaning – Process Logs
 
